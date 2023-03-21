@@ -1,1 +1,1 @@
-# Iceberg_EMR_Athena
+# Apache Iceberg on EMR + Athena
