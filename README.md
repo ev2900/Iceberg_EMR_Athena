@@ -10,4 +10,3 @@ The SQL used in the Athena demonstration is available
 * [Athena_Iceberg_SQL_3.sql](https://github.com/ev2900/Iceberg_EMR_Athena/blob/main/Athena_Iceberg_SQL_3.sql)
 
 The EMR Jupyter notebook used in demonstration is avilable [EMR_Iceberg_PySpark.ipynb](https://github.com/ev2900/Iceberg_EMR_Athena/blob/main/EMR_Iceberg_PySpark.ipynb)
-
