@@ -1,6 +1,6 @@
 # Workshop Resources
 
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-2180-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-415-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-2200-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-415-green">
 
 This repository contains the resources used in the [Analytics Workshop: Set Up and Use Apache Iceberg Tables on Your Data Lake](https://pages.awscloud.com/Analytics-Workshop-Set-Up-and-Use-Apache-Iceberg-Tables-on-Your-Data-Lake_2023_VW-0406-ABD?trk=0986d705-daec-4430-8ab3-53e50c51ea99&sc_channel=el)
 
